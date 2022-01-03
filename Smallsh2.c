@@ -1,8 +1,8 @@
 /*******************************************
 * Program: smallsh.c
-* Assignment: #3
 * Author: Ben Swinford
 * Date: 2/8/21
+* Description: A small shell system made from scratch
 *******************************************/
 
 
