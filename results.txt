@@ -1,0 +1,7 @@
+For Test Case: 
+correct, incorrect, percent
+[362, 135, 0.7283702213279678]
+
+For Training Case: 
+correct, incorrect, percent
+[487, 12, 0.9759519038076152]
